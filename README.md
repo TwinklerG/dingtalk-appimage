@@ -2,7 +2,7 @@
 
 <p align="center">
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/TwinklerG/dingtalk-appimage">
-<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/dingtalk-appimage/total">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/TwinklerG/dingtalk-appimage/total">
 </p>
 
 
