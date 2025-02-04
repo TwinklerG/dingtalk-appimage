@@ -1,7 +1,7 @@
 [Desktop Entry]
-Categories=Chat;Office;
+Categories=Office;
 Comment=
-Exec=/opt/apps/com.alibabainc.dingtalk/files/Elevator.sh %u
+Exec=AppRun %u
 GenericName=dingtalk
 Icon=logo
 Keywords=dingtalk;

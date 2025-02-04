@@ -1,3 +1,3 @@
 #!/bin/bash
-cd $APPDIR/opt/apps/com.alibabainc.dingtalk/files/7.6.25-Release.4122001
-./com.alibabainc.dingtalk
+cd $APPDIR/opt/apps/com.alibabainc.dingtalk/files
+./Elevator.sh
